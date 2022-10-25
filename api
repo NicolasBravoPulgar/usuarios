@@ -1,0 +1,65 @@
+[{
+        "email": "ri.montes@duocuc.cl",
+        "nombre": "Ricardo",
+        "apellido": "Montes",
+        "asignaturas": [{
+            "nombreAsignatura": "Programación Algoritmos",
+            "seccionAsignatura": "002D",
+            "HorarioAsignatura": [{
+                "dia": "Lunes",
+                "horaInicio": 13,
+                "minutoInicio": 11,
+                "horaFin": 15,
+                "minutoFin": 20,
+                "sala": "LC4"
+            }]
+        }]
+    },
+    {
+        "email": "ma.anaval@duocuc.cl",
+        "nombre": "María",
+        "apellido": "Anavalón",
+        "asignaturas": [{
+            "nombreAsignatura": "Programación Base de Datos",
+            "seccionAsignatura": "004D",
+            "HorarioAsignatura": [{
+                "dia": "Viernes",
+                "horaInicio": 9,
+                "minutoInicio": 31,
+                "horaFin": 10,
+                "minutoFin": 50,
+                "sala": "TP2"
+            }]
+        }]
+    },
+    {
+        "email": "jo.lemon@profesor.duoc.cl",
+        "nombre": "John",
+        "apellido": "Lemon",
+        "asignaturas": [{
+                "nombreAsignatura": "Ética para el trabajo",
+                "seccionAsignatura": "001D",
+                "HorarioAsignatura": [{
+                    "dia": "Jueves",
+                    "horaInicio": 15,
+                    "minutoInicio": 20,
+                    "horaFin": 16,
+                    "minutoFin": 50,
+                    "sala": "S45"
+                }]
+            },
+            {
+                "nombreAsignatura": "Ética para el trabajo",
+                "seccionAsignatura": "002D",
+                "HorarioAsignatura": [{
+                    "dia": "viernes",
+                    "horaInicio": 15,
+                    "minutoInicio": 20,
+                    "horaFin": 16,
+                    "minutoFin": 50,
+                    "sala": "S45"
+                }]
+            }
+        ]
+    }
+]
