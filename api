@@ -1,4 +1,5 @@
-[{
+[{      
+        "id":1,
         "email": "ri.montes@duocuc.cl",
         "nombre": "Ricardo",
         "apellido": "Montes",
@@ -16,6 +17,7 @@
         }]
     },
     {
+        "id":2,
         "email": "ma.anaval@duocuc.cl",
         "nombre": "María",
         "apellido": "Anavalón",
@@ -32,7 +34,8 @@
             }]
         }]
     },
-    {
+    {   
+        "id":3,
         "email": "jo.lemon@profesor.duoc.cl",
         "nombre": "John",
         "apellido": "Lemon",
