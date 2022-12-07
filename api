@@ -65,6 +65,18 @@
                     "minutoFin": 50,
                     "sala": "S45"
                 }]
+            },
+            {
+                "nombreAsignatura": "Formación Cristiana",
+                "seccionAsignatura": "002D",
+                "HorarioAsignatura": [{
+                    "dia": "Lunes",
+                    "horaInicio": 15,
+                    "minutoInicio": 20,
+                    "horaFin": 16,
+                    "minutoFin": 50,
+                    "sala": "S45"
+                }]
             }
         ]
     }
