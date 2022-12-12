@@ -8,7 +8,7 @@
             "nombreAsignatura": "Programación Algoritmos",
             "seccionAsignatura": "002D",
             "HorarioAsignatura": [{
-                "dia": "Lunes",
+                "dia": "0",
                 "horaInicio": 13,
                 "minutoInicio": 11,
                 "horaFin": 15,
@@ -27,7 +27,7 @@
             "nombreAsignatura": "Programación Base de Datos",
             "seccionAsignatura": "004D",
             "HorarioAsignatura": [{
-                "dia": "Viernes",
+                "dia": "4",
                 "horaInicio": 9,
                 "minutoInicio": 31,
                 "horaFin": 10,
@@ -46,7 +46,7 @@
                 "nombreAsignatura": "Ética para el trabajo",
                 "seccionAsignatura": "001D",
                 "HorarioAsignatura": [{
-                    "dia": "Jueves",
+                    "dia": "3",
                     "horaInicio": 15,
                     "minutoInicio": 20,
                     "horaFin": 16,
@@ -58,7 +58,7 @@
                 "nombreAsignatura": "Antropología",
                 "seccionAsignatura": "002D",
                 "HorarioAsignatura": [{
-                    "dia": "viernes",
+                    "dia": "4",
                     "horaInicio": 15,
                     "minutoInicio": 20,
                     "horaFin": 16,
@@ -70,7 +70,7 @@
                 "nombreAsignatura": "Formación Cristiana",
                 "seccionAsignatura": "002D",
                 "HorarioAsignatura": [{
-                    "dia": "Lunes",
+                    "dia": "0",
                     "horaInicio": 15,
                     "minutoInicio": 20,
                     "horaFin": 16,
