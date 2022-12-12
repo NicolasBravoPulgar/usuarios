@@ -14,8 +14,10 @@
                 "horaFin": 15,
                 "minutoFin": 20,
                 "sala": "LC4"
+                }]
             },
-            {"nombreAsignatura": "Fe Cristiana",
+            {
+            "nombreAsignatura": "Fe Cristiana",
             "seccionAsignatura": "002D",
             "HorarioAsignatura": [{
                 "dia": "2",
@@ -24,8 +26,7 @@
                 "horaFin": 15,
                 "minutoFin": 20,
                 "sala": "LC4"
-            }
-            ]
+            }]
         }]
     },
     {
