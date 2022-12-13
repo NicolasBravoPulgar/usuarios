@@ -59,7 +59,7 @@
         "apellido": "Lemon",
         "asignaturas": [{
                 "nombreAsignatura": "Ética para el trabajo",
-                 "profesor": "Julk name",
+              
                 "seccionAsignatura": "001D",
                 "HorarioAsignatura": [{
                     "dia": "3",
@@ -72,7 +72,7 @@
             },
             {
                 "nombreAsignatura": "Antropología",
-                "profesor": "Julian Almoga",
+               
                 "seccionAsignatura": "002D",
                 "HorarioAsignatura": [{
                     "dia": "4",
@@ -85,7 +85,7 @@
             },
             {
                 "nombreAsignatura": "Formación Cristiana",
-                "profesor": "Julian Almoga",
+                
                 "seccionAsignatura": "002D",
                 "HorarioAsignatura": [{
                     "dia": "0",
