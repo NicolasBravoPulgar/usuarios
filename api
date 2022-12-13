@@ -6,7 +6,6 @@
         "apellido": "Montes",
         "asignaturas": [{
             "nombreAsignatura": "Programación Algoritmos",
-            "profesor": "Julian Almoga",
             "seccionAsignatura": "002D",
             "HorarioAsignatura": [{
                 "dia": "0",
@@ -19,7 +18,6 @@
             },
             {
             "nombreAsignatura": "Fe Cristiana",
-             "profesor": "Thomas karr",
             "seccionAsignatura": "002D",
             "HorarioAsignatura": [{
                 "dia": "0",
@@ -39,7 +37,6 @@
         "apellido": "Anavalón",
         "asignaturas": [{
             "nombreAsignatura": "Programación Base de Datos",
-             "profesor": "Alan Efet",
             "seccionAsignatura": "004D",
             "HorarioAsignatura": [{
                 "dia": "4",
@@ -58,8 +55,7 @@
         "nombre": "John",
         "apellido": "Lemon",
         "asignaturas": [{
-                "nombreAsignatura": "Ética para el trabajo",
-              
+                "nombreAsignatura": "Ética para el trabajo",              
                 "seccionAsignatura": "001D",
                 "HorarioAsignatura": [{
                     "dia": "3",
@@ -71,8 +67,7 @@
                 }]
             },
             {
-                "nombreAsignatura": "Antropología",
-               
+                "nombreAsignatura": "Antropología",              
                 "seccionAsignatura": "002D",
                 "HorarioAsignatura": [{
                     "dia": "4",
@@ -84,8 +79,7 @@
                 }]
             },
             {
-                "nombreAsignatura": "Formación Cristiana",
-                
+                "nombreAsignatura": "Formación Cristiana",                
                 "seccionAsignatura": "002D",
                 "HorarioAsignatura": [{
                     "dia": "0",
